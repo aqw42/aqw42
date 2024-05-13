@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- https://github.com/anuraghazra/github-readme-stats#demo -->
+<!-- themes : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+![AQW42's general stats](https://github-readme-stats.vercel.app/api?username=aqw42&show_icons=true&count_private=false&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqw42)](https://github.com/aqw42)
